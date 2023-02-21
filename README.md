@@ -1,1 +1,1 @@
-# jsbasics
+# Sprites demo
