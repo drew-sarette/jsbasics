@@ -14,7 +14,7 @@ function neglect() {
     flowerHealth--;
     if (flowerHealth === 3) {
         console.log(flower)
-        flower.style.backgroundImage = "url(img/spritesheet.png) -200px 0";
+        flower.style.backgroundPosition = "100px 0";
     }
     else if (flowerHealth === 2) {
 
