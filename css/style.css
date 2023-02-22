@@ -12,6 +12,14 @@ body {
     height: 100px;
     width: 100px;
     background-image: url(/img/spritesheet.png);
+    background-position: -100px;
+    opacity: 100%;
+    transition-property: opacity;
+    transition-duration: 2s;
+}
+
+.dead {
+  opacity: 0%;
 }
 
 div {
