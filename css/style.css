@@ -11,7 +11,7 @@ body {
 .houseplant {
     height: 100px;
     width: 100px;
-    background-image: url(/img/spritesheet.png);
+    background-image: url(img/spritesheet.png);
     background-position: -100px;
     opacity: 100%;
     transition-property: opacity;
