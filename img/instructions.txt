@@ -1,0 +1,1 @@
+to generate a spritesheet, go to https://codeshack.io/images-sprite-sheet-generator/ and upload the png files, and download the spritesheet. You can then delete the originals
